@@ -1,4 +1,4 @@
-# Chindrab GA Course Work
+# Chindraba GA Course Work
 
 This is the collection of my General Assembly course work.
 
