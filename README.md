@@ -22,10 +22,10 @@ I can also be found on other sites and services:
 -  GitHub (main account): Chindraba <https://github.com/chindraba-work>
 -  GitLab (main account): Chindraba <https://gitlab.com/Chindraba>
 -  The Stack Exchange network of Q&A sites (including StackOverflow)
-  - SuperUser <https://superuser.com/users/686699/chindraba>
-  - Unix&Linux <https://unix.stackexchange.com/users/207673/chindraba>
-  - StackOverflow <https://stackoverflow.com/users/7412956/chindraba>
-  - CodeReview <https://codereview.stackexchange.com/users/126950/chindraba>
+   - SuperUser <https://superuser.com/users/686699/chindraba>
+   - Unix&Linux <https://unix.stackexchange.com/users/207673/chindraba>
+   - StackOverflow <https://stackoverflow.com/users/7412956/chindraba>
+   - CodeReview <https://codereview.stackexchange.com/users/126950/chindraba>
 
 I will not be found on Twitter or Facebook. 
 
