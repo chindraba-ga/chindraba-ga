@@ -39,9 +39,9 @@ I will not be found on Twitter or Facebook.
 
 The MIT license applies to all the code within this repository.
 
-Copyright © 2020  Chindraba (Ronald Lamoreaux)
-                  <[upskill@chindraba.work](mailto:upskill@chindraba.work?subject=chindraba-ga)>
-- All Rights Reserved
+Copyright © 2020  Chindraba (Ronald Lamoreaux) <[upskill@chindraba.work](mailto:upskill@chindraba.work?subject=chindraba-ga)>
+
+— All Rights Reserved
 
 # The MIT License
 
