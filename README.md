@@ -32,8 +32,8 @@ I will not be found on Twitter or Facebook.
 
 # Projects and Assignments
 
--  Pre-course prep work: Dash tutorial [Project 1: Build A Personal Website](/chindraba-ga/dash_proj_01)
-  -  Status: Submitted
+-  Pre-course prep work: Dash tutorial [Project 1: Build A Personal Website](../../../../chindraba-ga/dash_proj_01)
+   -  Status: Submitted
 
 
 ---
