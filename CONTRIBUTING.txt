@@ -10,16 +10,26 @@ submitted the project and received the marks for it. As I do not yet know what
 some of the projects will involve, it would also be appreciated it feature
 requests, or suggestions, were also withheld until the marks have been assigned.
 
-Each project will have the README files updated to indicate their status as
-"COMPLETED" once the instructor has awarded credits for the projects. At such
-time it can be considered the same as any other Open Source project, with full
-participation by any who wish to add to it.
+Contents
 ================================================================================
+
+* Contributor requirements
+  * Developer Certiticate of Origin
+  * GPG-signed commits
+  * OpenPGP public key
+* Code of Conduct
+* Issues and bugs
+  * Find one, report one
+  * Find one, patch one
+* Feature requests and enhancements
+* Using the project locally
+
 
 Contributor requirements
+================================================================================
 
 Developer Certiticate of Origin
-================================================================================
+--------------------------------------------------------------------------------
 
 This project uses the Developer Certificate of Origin, Version 1.1 used by Linux
 Foundation in developing the Linux Kernel. The Developer Certificate of Origin
@@ -105,7 +115,7 @@ If you find a truly serious bug, and know how to fix it, code the solution and
 create a Merge request or Pull request, as the case may be, in this repository.
 
 Kudos to anyone willing to take the time to create solutions rather than
-notices. Please read the "Contributor requirements" secion above.
+notices. Please read the "Contributor requirements" section above.
 
 
 Feature requests and enhancements
