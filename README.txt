@@ -23,6 +23,14 @@ some reason, the status will be one of:
      contribute as any other Open Source project would be. See the
      CONTRIBUTING.txt file in this repository for expectations in that regard.
 
+
+Projects and Assignments
+================================================================================
+
+* Pre-course prep work: Dash tutorial [Project 1: Build A Personal Website](/chindraba-ga/dash_proj_01)
+   Status: Submitted
+
+
 Other sites
 ================================================================================
 
@@ -41,13 +49,6 @@ I can also be found on other sites and services:
 I am not on Twitter or Facebook.
 
 
-Projects and Assignments
-================================================================================
-
-* Pre-course prep work: Dash tutorial [Project 1: Build A Personal Website](/chindraba-ga/dash_proj_01)
-   Status: Submitted
-
----
 Copyright and License
 ================================================================================
 

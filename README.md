@@ -1,6 +1,6 @@
 # Chindraba GA Course Work
 
-This is the collection of my General Assembly course work.
+### This is the collection of my General Assembly course work.
 
 Much of my work is likely to also be demoed on [CodePen][CODEPEN].
 
@@ -11,8 +11,19 @@ The plan is for each assigned project to have its own repository. Here I will be
 -  Assigned: The information, instructions, and possibly resources have been issued by the instructor. No work has been done.
 -  In progress: I have begun working on the project. Progress could be 1% or 99.9%, or somewhere between.
 -  Submitted: The project has been completed, as far as I know, and submitted to the instructor. Credit pending.
--  Graded: The instructor has assigned my grade, or otherwise marked the project as complete. At this point the project is "open" for others to contribute as any other Open Source project would be. See the `CONTRIBUTING.md` file (on [GitLab](CONTRIBl) and on [GitHub][CONTRIBh]) for expectations in that regard.
+-  Graded: The instructor has assigned my grade, or otherwise marked the project as complete. At this point the project is "open" for others to contribute as any other Open Source project would be. See the [`CONTRIBUTING.md`][CONTRIB] file for expectations in that regard.
 
+[TOP](#contents)
+
+---
+# Projects and Assignments
+
+-  Pre-course prep work: Dash tutorial [Project 1: Build A Personal Website](../../../../../chindraba-ga/dash_proj_01)
+   -  Status: Submitted
+
+[TOP](#contents)
+
+---
 ## Other sites
 
 I can also be found on other sites and services:
@@ -29,12 +40,7 @@ I can also be found on other sites and services:
 
 I will not be found on Twitter or Facebook. 
 
-
-# Projects and Assignments
-
--  Pre-course prep work: Dash tutorial [Project 1: Build A Personal Website](../../../../../chindraba-ga/dash_proj_01)
-   -  Status: Submitted
-
+[TOP](#contents)
 
 ---
 # Copyright and License
@@ -70,5 +76,4 @@ Copyright © 2020  Chindraba (Ronald Lamoreaux) <[upskill@chindraba.work](mailto
 
 
   [CODEPEN]: https://codepen.io/chindraba-ga
-  [CONTRIBh]: https://github.com/chindraba-ga/chindraba-ga/blob/master/CONTRIBUTING.md
-  [CONTRIBl]: https://gitlab.com/chindraba-ga/chindraba-ga/-/blob/master/CONTRIBUTING.md
+  [CONTRIB]: ./CONTRIBUTING.md

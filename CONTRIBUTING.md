@@ -1,5 +1,3 @@
----
-
 ## NOTICE: School Projects
 
 This account is associated with a collection of course work for an active class with General Assembly. Issues and bugs are welcome at any time (see below.) On the other hand, so as to not interfer with either my potential to learn from the work involved, or to reduce my potential for full marks on projects, it is not acceptable to make your own contributions to any of the projects until I've submitted the project and received the marks for it. As I do not yet know what some of the projects will involve, it would also be appreciated it feature requests, or suggestions, were also withheld until the marks have been assigned.
