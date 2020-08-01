@@ -18,6 +18,7 @@ Contents
 
 NOTICE: School Projects
 ================================================================================
+
 This account is associated with a collection of course work for an active class
 with General Assembly. Issues and bugs are welcome at any time (see below.) On
 the other hand, so as to not interfer with either my potential to learn from 
