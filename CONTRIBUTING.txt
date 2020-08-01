@@ -39,21 +39,22 @@ look like this:
     
 Pseudonymous or anonymous contributions are permissible, but you must be
 reachable at the email provided in the "Signed-off-by" line, not just through
-your account on GitLab or GitHub.
+your account on GitLab, GitHub, etc.
 
 GPG-signed commits
 --------------------------------------------------------------------------------
 
 In addition, to be acceptable to the project, the commits need to be GPG-signed
-in a manner verifiable by the site on which the commit is posted. Again, the 
+in a manner verifiable by the site(s) on which the commit is posted. Again, the 
 git command makes this simple with the "--gpg-sign[=<keyid>]" or "-S[<keyid>]"
 options for a commit. This, of course, means that you will need to have a PGP
 key for the same email address as you use for creating the commits. GitLab has a
 good page, "Signing commits with GPG" (see below), which explains, and guides
 you through the process of creating one, and GitHub has a good page, "Generating
 a new GPG key" (see below), for essentially the same process. Both also help you
-associate the new PGP key with your account on their server, if you wish. I
-would recommend that where the instructions suggest selecting the default of
+associate the new PGP key with your account on their server, if you wish.
+
+I would recommend that where the instructions suggest selecting the default of
 "RSA and RSA" that you select "ECC and ECC" instead. The size of the keys are
 shorter and the time and work you computer uses to generate and use the keys is
 less. Selecting the ECC algorithm causes the selection of key size to be
@@ -92,15 +93,16 @@ Find one, report one
 --------------------------------------------------------------------------------
 
 If you find a bug, or have an issue with how something works, or doesn't work,
-open an Issue on the project page, (see links below). Typos also qualify as an
-issue. Maybe it is not a bug, or is the result of a prior decision, maybe it is
-a problem and needs to be fixed. Either way the Issue will be seen and handled.
+open an Issue on the project page. Typos also qualify as an issue. 
+
+Maybe it is not a bug, or is the result of a prior decision, maybe it is a
+problem and needs to be fixed. Either way the Issue will be seen and handled.
 
 Find one, patch one
 --------------------------------------------------------------------------------
 
 If you find a truly serious bug, and know how to fix it, code the solution and
-create a Merge request on GitLab, or a Pull request on GitHub (see links below).
+create a Merge request or Pull request, as the case may be, in this repository.
 
 Kudos to anyone willing to take the time to create solutions rather than
 notices. Please read the "Contributor requirements" secion above.
@@ -143,18 +145,6 @@ Resources:
 
     MIT OpenPGP host
 <https://pgp.mit.edu>
-
-    New issues on GitHub
-<https://github.com/chindraba-ga/chindraba-ga/issues>
-
-    New Issues on GitLab
-<https://gitlab.com/chindraba-ga/chindraba-ga/-/issues/new>
-
-    New Merge Requests on GitLab
-<https://gitlab.com/chindraba-ga/chindraba-ga/-/merge_requests/new>
-
-    New Pull Requests on GitHub
-<https://github.com/chindraba-ga/chindraba-ga/pulls>
 
     No Code of Conduct homepage
 <https://github.com/domgetter/NCoC>
