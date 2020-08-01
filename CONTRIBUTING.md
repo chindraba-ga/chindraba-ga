@@ -1,4 +1,4 @@
-# Primary General Assembly Projects
+# Chindraba GA Course Work
 
 ## Contents
 
