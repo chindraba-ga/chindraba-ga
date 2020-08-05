@@ -41,17 +41,22 @@ Most of the time, unless needed for some reason, the status will be one of:
 
 -  Pre-course prep work: Dash tutorial [Project 1: Build A Personal Website](../../../../../chindraba-ga/dash_proj_01)
    -  Status: Pending
+   -  Live page: <https://www.chindraba.work/fewd/l00-ex01.html>
 
 ### Lesson 1
 
 -  Partner Excercise: [Let's Recreate This Slide in HTML!](../../../../../chindraba-ga/l01-ex00)
    -  Status: Pending
+   -  Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
 -  Exercise 1: [GA Press Release](../../../../../chindraba-ga/l01-ex01)
    -  Status: Pending
+   -  Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
 -  Exercise 2: [Kässerole Example](../../../../../chindraba-ga/l01-ex02)
    -  Status: Pending
+   -  Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
 -  Exercise 3: [Cookie HTML](../../../../../chindraba-ga/l01-ex03)
    -  Status: Pending
+   -  Live page: <https://www.chindraba.work/fewd/l01-ex03.html>
 
 
 [TOP](#contents)

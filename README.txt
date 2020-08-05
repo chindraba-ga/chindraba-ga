@@ -49,21 +49,26 @@ Prep Work
 * Pre-course prep work: Dash tutorial Project 1: Build A Personal Website
   - Status: Pending
   - Repo: dash_proj_01
+  - Live page: <https://www.chindraba.work/fewd/l00-ex01.html>
 
 Lesson 1
 
 * Partner Excercise: Let's Recreate This Slide in HTML!
   - Status: Pending
   - Repo: l01-ex00
+  - Live page: <https://www.chindraba.work/fewd/l01-ex00.html>
 * Exercise 1: GA Press Release
   - Status: Pending
   - Repo: l01-ex01
+  - Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
 * Exercise 2: Kässerole Example
   - Status: Pending
   - Repo: l01-ex02
+  - Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
 * Exercise 3: Cookie HTML
   - Status: Pending
   - Repo: l01-ex03
+  - Live page: <https://www.chindraba.work/fewd/l01-ex03.html>
 
 
 Other Sites
