@@ -58,6 +58,14 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  Status: Pending
    -  Live page: <https://www.chindraba.work/fewd/l01-ex03.html>
 
+### Lesson 2
+
+-  Exercise 1: [Guided Walk-Through: HTML Review](../../../../../chindraba-ga/l01-ex01)
+   -  Status: Pending
+   -  Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
+-  Assignment: [Make a GA Press Release](../../../../../chindraba-ga/l02-hw01)
+   -  Status: Assigned
+   -  Live page: <https://www.chindraba.work/fewd/l02-hw01.html>
 
 [TOP](#contents)
 

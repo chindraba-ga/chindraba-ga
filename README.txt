@@ -70,6 +70,18 @@ Lesson 1
   - Repo: l01-ex03
   - Live page: <https://www.chindraba.work/fewd/l01-ex03.html>
 
+Lesson 2
+
+* Exercise 1: Guided Walk-Through: HTML Review
+  - Status: Pending
+  - Repo: l02-ex01
+  - Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
+  
+* Assignment: Make a GA Press Release
+  - Status: Assigned
+  - Repo: l02-hw01
+  - Live page: <https://www.chindraba.work/fewd/l02-hw01.html>
+  
 
 Other Sites
 ================================================================================

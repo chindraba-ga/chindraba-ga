@@ -1,5 +1,11 @@
 Chindraba GA Course Work
 
+2020-08-07
+- Add homework for Lesson 2
+
+2020-08-06
+- Add projects for Lesson 2
+
 2020-08-05
 - Add projects from Lesson 1
 
