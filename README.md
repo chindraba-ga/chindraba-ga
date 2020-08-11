@@ -64,7 +64,7 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  Status: Pending
    -  Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
 -  Assignment: [Make a GA Press Release](../../../../../chindraba-ga/l02-hw01)
-   -  Status: Assigned
+   -  Status: Submitted
    -  Live page: <https://www.chindraba.work/fewd/l02-hw01.html>
 
 [TOP](#contents)

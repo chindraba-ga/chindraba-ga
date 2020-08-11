@@ -78,7 +78,7 @@ Lesson 2
   - Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
   
 * Assignment: Make a GA Press Release
-  - Status: Assigned
+  - Status: Submitted
   - Repo: l02-hw01
   - Live page: <https://www.chindraba.work/fewd/l02-hw01.html>
   
