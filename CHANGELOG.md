@@ -1,5 +1,11 @@
 # Chindraba GA Course Work
 
+### 2020-08-17
+*  Add exercies and homework for Lesson 4
+
+### 2020-08-12
+*  Add exercise for Lesson 3
+
 ### 2020-08-07
 *  Add homework for Lesson 2
 

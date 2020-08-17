@@ -30,42 +30,81 @@ Most of the time, unless needed for some reason, the status will be one of:
 -  Assigned: The information, instructions, and possibly resources have been issued by the instructor. No work has been done.
 -  In progress: I have begun working on the project. Progress could be 1% or 99.9%, or somewhere between.
 -  Submitted: The project has been completed, as far as I know, and submitted to the instructor. Credit pending.
--  Graded: The instructor has assigned my grade, or otherwise marked the project as complete. At this point the project is "open" for others to contribute as any other Open Source project would be. See the [`CONTRIBUTING.md`](./CONTRIBUTING.md) file for expectations in that regard.
+-  Final: The instructor has assigned my grade, or otherwise marked the project as complete. At this point the project is "open" for others to contribute as any other Open Source project would be. See the [`CONTRIBUTING.md`](./CONTRIBUTING.md) file for expectations in that regard.
 
 [TOP](#contents)
 
 ---
 ## Projects and Assignments
 
-### Prep Work
+### Lesson 0
 
--  Pre-course prep work: Dash tutorial [Project 1: Build A Personal Website](../../../../../chindraba-ga/dash_proj_01)
-   -  Status: Pending
+-  Dash tutorial 1: [Build A Personal Website](../../../../../chindraba-ga/l00-ex01)
+   -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/BaKBoJx>
    -  Live page: <https://www.chindraba.work/fewd/l00-ex01.html>
 
 ### Lesson 1
 
 -  Partner Excercise: [Let's Recreate This Slide in HTML!](../../../../../chindraba-ga/l01-ex00)
-   -  Status: Pending
+   -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/RwawRxK>
    -  Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
--  Exercise 1: [GA Press Release](../../../../../chindraba-ga/l01-ex01)
-   -  Status: Pending
+   
+-  Guided Walk-Through: [Press Release](../../../../../chindraba-ga/l01-ex01)
+   -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/PoNozVE>
    -  Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
--  Exercise 2: [Kässerole Example](../../../../../chindraba-ga/l01-ex02)
-   -  Status: Pending
+
+-  Partner Exercise: [Kässerole Example](../../../../../chindraba-ga/l01-ex02)
+   -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/yLOLayd>
    -  Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
--  Exercise 3: [Cookie HTML](../../../../../chindraba-ga/l01-ex03)
-   -  Status: Pending
+
+-  Solo Exercise: [Cookie Time](../../../../../chindraba-ga/l01-ex03)
+   -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/gOrOwWj>
    -  Live page: <https://www.chindraba.work/fewd/l01-ex03.html>
 
 ### Lesson 2
 
--  Exercise 1: [Guided Walk-Through: HTML Review](../../../../../chindraba-ga/l01-ex01)
-   -  Status: Pending
+-  Guided Walk-Through: [HTML Review](../../../../../chindraba-ga/l02-ex01)
+   -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/gOrbmPX>
    -  Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
+
+-  Computers Out: [CSS Exploration](../../../../../chindraba-ga/l02-ex02)
+   -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/mdPymwo>
+   -  Live page: <https://www.chindraba.work/fewd/l02-ex02.html>
+
+-  Solo Exercise: [Build an HTML Table](../../../../../chindraba-ga/l02-ex03)
+   -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/NWNPpXe>
+   - Live page: <https://www.chindraba.work/fewd/l02-ex03.html>
+
 -  Assignment: [Make a GA Press Release](../../../../../chindraba-ga/l02-hw01)
    -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/GRZgmYV>
    -  Live page: <https://www.chindraba.work/fewd/l02-hw01.html>
+
+### Lesson 3
+
+-  Exercise 1: [Practicing the Box Model](../../../../../chindraba-ga/l03-ex01)
+   -  Status: Submitted
+   -  Live page: <https://www.chindraba.work/fewd/l03-ex01.html>
+
+### Lesson 4
+
+-  Exercise 1: [Nav With Flexbox](../../../../../chindraba-ga/l04-ex01)
+   -  Status: In progress
+   -  Live page: <https://www.chindraba.work/fewd/l04-ex01.html>
+
+-  Homework 2: Assignment: [Startup Matchmaker](../../../../../chindraba-ga/l04-hw02)
+   -  Status: Assigned
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
+   -  Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
+
 
 [TOP](#contents)
 
