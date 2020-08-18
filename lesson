@@ -39,17 +39,51 @@
 # and Starter code, respectively, supplied by the instructor. If the file is not
 # found, a placehold text is added.
 
+[ -z "$1" ] && { printf "Nothing to do without a repo name\n"; exit 1; }
 repo_name="$1"
-title="${2:-Lesson x: Activity: Name}"
-desc="${3:-Description of the project from the slide goes here.}"
+[ -e "${repo_name}.dat" ] || {
+    printf "Cannot find data file '%s.dat'\n" "${repo_name}"
+    cat > "${repo_name}.dat" <<'EOT'
+# Title of the activity
+title='Lesson x: Activity: Name'
+
+# Description of the project, from the slide
+read -r -d '' desc <<'EODesc'
+    Description fron the slide goes here.
+EODesc
+
+# The STARTER CODE provided in the instructions, or CodePen
+# Please indent all lines by at least four spaces.
+read -r -d '' starter_code <<'EOCode'
+    STARTER CODE goes here.
+EOCode
+
+# The STARTER CSS, if any, from the CodePen
+# Please indent all lines by at least four spaces.
+read -r -d '' starter_css <<'EOStyle'
+    STARTER CSS goes here.
+EOStyle
+EOT
+    printf "\nCreated data file '%s.dat'.\nEdit this file and re-run the command.\n\n" "${target}"
+    exit 1
+}
+source "${repo_name}.dat"
 cp -r ga-template "${repo_name}"
-[ -e "${repo_name}.sc" ] || echo "    STARTER CODE goes here." > "${repo_name}.sc"
-[ -e "${repo_name}.css" ] || echo "    STARTER CSS goes here." > "${repo_name}.css"
+export repo_name
+export title
+export desc
+export starter_code
+export starter_css
 for target_file in README.md README.txt CONTRIBUTING.md CONTRIBUTING.txt project_page.html .git/config; do
     target="${repo_name}/${target_file}"
-    sed -i -e "s/<<PRJ>>/${repo_name}/g;s/<<TITLE>>/${title}/g;s/<<DESC>>/${desc}/g;" "${target}"
-    # https://unix.stackexchange.com/a/317956/207673
-    sed 's/<<STARTER_CSS>>/$x/g' ${target} | x="$(<${repo_name}.css)" envsubst '$x' > ${target}2
-    sed 's/<<STARTER_CODE>>/$x/g' "${target}2" | x="$(<"${repo_name}.sc")" envsubst '$x' > "${target}"
-    rm "${target}2"
+    perl -pi -e 's/<<PRJ>>/$ENV{"repo_name"}/g' "${target}"
+    perl -pi -e 's/<<TITLE>>/$ENV{"title"}/g' "${target}"
+    perl -pi -e 's/<<DESC>>/$ENV{"desc"}/g' "${target}"
+    perl -pi -e 's/<<STARTER_CSS>>/$ENV{"starter_css"}/g' "${target}"
+    perl -pi -e 's/<<STARTER_CODE>>/$ENV{"starter_code"}/g' "${target}"
 done
+instruction_1='Create the repos where needed.'
+instruction_2='Use the repo name: %s.'
+instruction_3='If desired, use the description of:'
+printf "\n${instruction_1}\n${instruction_2}\n${instruction_3}\n\t'%s'\n" "${repo_name}" "${title}"
+

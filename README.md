@@ -84,7 +84,7 @@ Most of the time, unless needed for some reason, the status will be one of:
    - Live page: <https://www.chindraba.work/fewd/l02-ex03.html>
 
 -  Assignment: [Make a GA Press Release](../../../../../chindraba-ga/l02-hw01)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/GRZgmYV>
    -  Live page: <https://www.chindraba.work/fewd/l02-hw01.html>
 
@@ -101,7 +101,7 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  Live page: <https://www.chindraba.work/fewd/l04-ex01.html>
 
 -  Homework 2: Assignment: [Startup Matchmaker](../../../../../chindraba-ga/l04-hw02)
-   -  Status: Assigned
+   -  Status: Submitted
    -  CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
    -  Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
 

@@ -98,7 +98,7 @@ Lesson 2
   - Live page: <https://www.chindraba.work/fewd/l02-ex03.html>
 
 * Assignment: Make a GA Press Release
-  - Status: Submitted
+  - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/GRZgmYV>
   - Repo: l02-hw01
   - Live page: <https://www.chindraba.work/fewd/l02-hw01.html>
@@ -118,7 +118,7 @@ Lesson 4
   - Live page: <https://www.chindraba.work/fewd/l04-ex01.html>
 
 * Homework 2: Assignment: Startup Matchmaker
-  - Status: Assigned
+  - Status: Submitted
   - Repo: l04-hw02
   - CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
   - Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
