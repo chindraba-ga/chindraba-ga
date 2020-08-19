@@ -105,6 +105,12 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
    -  Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
 
+### Lesson 5
+
+-  Solo Exercise: [Make a Grid With Images](../../../../../chindraba-ga/l05-ex01)
+   -  Status: Submitted
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
+   -  Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
 
 [TOP](#contents)
 

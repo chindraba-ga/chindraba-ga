@@ -123,6 +123,13 @@ Lesson 4
   - CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
   - Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
 
+Lesson 5
+
+* Solo Exercise: Make a Grid With Images
+  - Status: Submitted
+  - Repo: l05-ex01
+  - CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
+  - Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
 
 Other Sites
 ================================================================================
