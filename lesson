@@ -80,6 +80,7 @@ EOT
 }
 source "${repo_name}.dat"
 cp -r ga-template "${repo_name}"
+num="${l_num#0}"
 title="Lesson ${num}: ${activity}: ${name}"
 export repo_name
 export title
@@ -96,7 +97,6 @@ for target_file in README.md README.txt CONTRIBUTING.md CONTRIBUTING.txt project
     perl -pi -e 's/<<STARTER_CODE>>/$ENV{"starter_code"}/g' "${target}"
 done
 
-num="${l_num#0}"
 cat >> "${repo_name}.dat" <<EOReadme
 
 Repo name: ${repo_name}
@@ -104,20 +104,24 @@ Repo description: ${title}
 
 additions to journal README files
 ---------------------------------
+
 ### Lesson ${num}
+
+-  ${activity}: [${name}](../../../../../chindraba-ga/${repo_name})
+   -  Status: Assigned
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/${code_pen}>
+   -  Live page: <https://www.chindraba.work/fewd/${repo_name}.html>
+
+---------------------------------
+
+Lesson ${num}
 
 * ${activity}: ${name}
   - Status: Assigned
   - CodePed: <https://codepen.io/chindraba-ga/pen/${code_pen}>
   - Repo: ${repo_name}
   - Live page: <https://www.chindraba.work/fewd/${repo_name}.html>
----------------------------------
-Lesson {$num}
 
--  ${activity}: [${name}](../../../../../chindraba-ga/${repo_name})
-   -  Status: Assigned
-   -  CodePen: <https://codepen.io/chindraba-ga/pen/${code_pen}>
-   -  Live page: <https://www.chindraba.work/fewd/${repo_name}.html>
 ---------------------------------
 EOReadme
 
