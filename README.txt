@@ -133,6 +133,14 @@ Lesson 5
 
 Lesson 6
 
+Lesson 6
+
+* Solo Exercise: Build a Real Website
+  - Status: Assigned
+  - CodePed: <https://codepen.io/chindraba-ga/pen/jOqVMxW>
+  - Repo: l06-ex01
+  - Live page: <https://www.chindraba.work/fewd/l06-ex01.html>
+
 * Assignment: Rebuild a page from Trulia
   - Status: Assigned
   - CodePed: <https://codepen.io/chindraba-ga/pen/rNeMZaM>

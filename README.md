@@ -114,6 +114,11 @@ Most of the time, unless needed for some reason, the status will be one of:
 
 ### Lesson 6
 
+-  Solo Exercise: [Build a Real Website](../../../../../chindraba-ga/l06-ex01)
+   -  Status: Assigned
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/jOqVMxW>
+   -  Live page: <https://www.chindraba.work/fewd/l06-ex01.html>
+
 -  Assignment: [Rebuild a page from Trulia](../../../../../chindraba-ga/l06-hw03)
    -  Status: Assigned
    -  CodePen: <https://codepen.io/chindraba-ga/pen/rNeMZaM>
