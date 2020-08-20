@@ -112,6 +112,13 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
    -  Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
 
+### Lesson 6
+
+-  Assignment: [Rebuild a page from Trulia](../../../../../chindraba-ga/l06-hw03)
+   -  Status: Assigned
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/rNeMZaM>
+   -  Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
+
 [TOP](#contents)
 
 ---

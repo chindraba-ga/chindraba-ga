@@ -131,6 +131,15 @@ Lesson 5
   - CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
   - Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
 
+Lesson 6
+
+* Assignment: Rebuild a page from Trulia
+  - Status: Assigned
+  - CodePed: <https://codepen.io/chindraba-ga/pen/rNeMZaM>
+  - Repo: l06-hw03
+  - Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
+
+
 Other Sites
 ================================================================================
 
