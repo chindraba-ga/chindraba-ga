@@ -44,8 +44,19 @@ repo_name="$1"
 [ -e "${repo_name}.dat" ] || {
     printf "Cannot find data file '%s.dat'\n" "${repo_name}"
     cat > "${repo_name}.dat" <<'EOT'
-# Title of the activity
-title='Lesson x: Activity: Name'
+# Lesson Number
+l_num='04';
+
+# Type of activity, Exercise, Partner Project, Guided Walk-Through, etc.
+activity='Exercise'
+
+# Name of the activity, usually on the slide about it
+name='CSS Box Properties'
+
+# CodePen name: the stub part of the the URL.
+# So: https://codepen.io/chindraba-ga/pen/RwawRxK would be
+# RwawRxK
+code_pen=''
 
 # Description of the project, from the slide
 read -r -d '' desc <<'EODesc'
@@ -64,11 +75,12 @@ read -r -d '' starter_css <<'EOStyle'
     STARTER CSS goes here.
 EOStyle
 EOT
-    printf "\nCreated data file '%s.dat'.\nEdit this file and re-run the command.\n\n" "${target}"
+    printf "\nCreated data file '%s.dat'.\nEdit this file and re-run the command.\n\n" "${repo_name}"
     exit 1
 }
 source "${repo_name}.dat"
 cp -r ga-template "${repo_name}"
+title="Lesson ${num}: ${activity}: ${name}"
 export repo_name
 export title
 export desc
@@ -77,11 +89,38 @@ export starter_css
 for target_file in README.md README.txt CONTRIBUTING.md CONTRIBUTING.txt project_page.html .git/config; do
     target="${repo_name}/${target_file}"
     perl -pi -e 's/<<PRJ>>/$ENV{"repo_name"}/g' "${target}"
+    perl -pi -e 's/<<PEN>>/$ENV{"code_pen"}/g' "${target}"
     perl -pi -e 's/<<TITLE>>/$ENV{"title"}/g' "${target}"
     perl -pi -e 's/<<DESC>>/$ENV{"desc"}/g' "${target}"
     perl -pi -e 's/<<STARTER_CSS>>/$ENV{"starter_css"}/g' "${target}"
     perl -pi -e 's/<<STARTER_CODE>>/$ENV{"starter_code"}/g' "${target}"
 done
+
+num="${l_num#0}"
+cat >> "${repo_name}.dat" <<EOReadme
+
+Repo name: ${repo_name}
+Repo description: ${title}
+
+additions to journal README files
+---------------------------------
+### Lesson ${num}
+
+* ${activity}: ${name}
+  - Status: Assigned
+  - CodePed: <https://codepen.io/chindraba-ga/pen/${code_pen}>
+  - Repo: ${repo_name}
+  - Live page: <https://www.chindraba.work/fewd/${repo_name}.html>
+---------------------------------
+Lesson {$num}
+
+-  ${activity}: [${name}](../../../../../chindraba-ga/${repo_name})
+   -  Status: Assigned
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/${code_pen}>
+   -  Live page: <https://www.chindraba.work/fewd/${repo_name}.html>
+---------------------------------
+EOReadme
+
 instruction_1='Create the repos where needed.'
 instruction_2='Use the repo name: %s.'
 instruction_3='If desired, use the description of:'
