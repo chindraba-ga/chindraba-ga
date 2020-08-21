@@ -121,7 +121,7 @@ Most of the time, unless needed for some reason, the status will be one of:
 
 -  Assignment: [Rebuild a page from Trulia](../../../../../chindraba-ga/l06-hw03)
    -  Status: Assigned
-   -  CodePen: <https://codepen.io/chindraba-ga/pen/rNeMZaM>
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
    -  Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
 
 [TOP](#contents)
