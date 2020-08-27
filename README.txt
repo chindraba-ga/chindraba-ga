@@ -118,7 +118,7 @@ Lesson 4
   - Live page: <https://www.chindraba.work/fewd/l04-ex01.html>
 
 * Homework 2: Assignment: Startup Matchmaker
-  - Status: Submitted
+  - Status: Final
   - Repo: l04-hw02
   - CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
   - Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
@@ -144,6 +144,14 @@ Lesson 6
   - CodePed: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
   - Repo: l06-hw03
   - Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
+
+Lesson 8
+
+* Assignment: Add Modal to the page from Trulia
+  - Status: Assigned
+  - CodePed: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
+  - Repo: l08-hw04
+  - Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
 
 
 Other Sites

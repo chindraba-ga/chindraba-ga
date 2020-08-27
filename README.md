@@ -101,7 +101,7 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  Live page: <https://www.chindraba.work/fewd/l04-ex01.html>
 
 -  Homework 2: Assignment: [Startup Matchmaker](../../../../../chindraba-ga/l04-hw02)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
    -  Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
 
@@ -125,6 +125,14 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
 
 [TOP](#contents)
+
+### Lesson 8
+
+-  Assignment: [Add Modal to the page from Trulia](../../../../../chindraba-ga/l08-hw04)
+   -  Status: Assigned
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
+   -  Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
+
 
 ---
 ## Other sites
