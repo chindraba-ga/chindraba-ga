@@ -40,46 +40,46 @@ Most of the time, unless needed for some reason, the status will be one of:
 ### Lesson 0
 
 -  Dash tutorial 1: [Build A Personal Website](../../../../../chindraba-ga/l00-ex01)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/BaKBoJx>
    -  Live page: <https://www.chindraba.work/fewd/l00-ex01.html>
 
 ### Lesson 1
 
 -  Partner Excercise: [Let's Recreate This Slide in HTML!](../../../../../chindraba-ga/l01-ex00)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/RwawRxK>
    -  Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
    
 -  Guided Walk-Through: [Press Release](../../../../../chindraba-ga/l01-ex01)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/PoNozVE>
    -  Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
 
 -  Partner Exercise: [Kässerole Example](../../../../../chindraba-ga/l01-ex02)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/yLOLayd>
    -  Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
 
 -  Solo Exercise: [Cookie Time](../../../../../chindraba-ga/l01-ex03)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/gOrOwWj>
    -  Live page: <https://www.chindraba.work/fewd/l01-ex03.html>
 
 ### Lesson 2
 
 -  Guided Walk-Through: [HTML Review](../../../../../chindraba-ga/l02-ex01)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/gOrbmPX>
    -  Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
 
 -  Computers Out: [CSS Exploration](../../../../../chindraba-ga/l02-ex02)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/mdPymwo>
    -  Live page: <https://www.chindraba.work/fewd/l02-ex02.html>
 
 -  Solo Exercise: [Build an HTML Table](../../../../../chindraba-ga/l02-ex03)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/NWNPpXe>
    - Live page: <https://www.chindraba.work/fewd/l02-ex03.html>
 
@@ -91,14 +91,10 @@ Most of the time, unless needed for some reason, the status will be one of:
 ### Lesson 3
 
 -  Exercise 1: [Practicing the Box Model](../../../../../chindraba-ga/l03-ex01)
-   -  Status: Submitted
+   -  Status: Final
    -  Live page: <https://www.chindraba.work/fewd/l03-ex01.html>
 
 ### Lesson 4
-
--  Exercise 1: [Nav With Flexbox](../../../../../chindraba-ga/l04-ex01)
-   -  Status: In progress
-   -  Live page: <https://www.chindraba.work/fewd/l04-ex01.html>
 
 -  Homework 2: Assignment: [Startup Matchmaker](../../../../../chindraba-ga/l04-hw02)
    -  Status: Final
@@ -108,19 +104,19 @@ Most of the time, unless needed for some reason, the status will be one of:
 ### Lesson 5
 
 -  Solo Exercise: [Make a Grid With Images](../../../../../chindraba-ga/l05-ex01)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
    -  Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
 
 ### Lesson 6
 
 -  Solo Exercise: [Build a Real Website](../../../../../chindraba-ga/l06-ex01)
-   -  Status: In Progress
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/jOqVMxW>
    -  Live page: <https://www.chindraba.work/fewd/l06-ex01.html>
 
 -  Assignment: [Rebuild a page from Trulia](../../../../../chindraba-ga/l06-hw03)
-   -  Status: Assigned
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
    -  Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
 
@@ -129,7 +125,7 @@ Most of the time, unless needed for some reason, the status will be one of:
 ### Lesson 8
 
 -  Assignment: [Add Modal to the page from Trulia](../../../../../chindraba-ga/l08-hw04)
-   -  Status: Assigned
+   -  Status: Submitted
    -  CodePen: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
    -  Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
 

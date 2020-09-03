@@ -47,7 +47,7 @@ Projects and Assignments
 Lesson 0
 
 * Dash tutorial 1:  Build A Personal Website
-  - Status: Submitted
+  - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/BaKBoJx>
   - Repo: l00-ex01
   - Live page: <https://www.chindraba.work/fewd/l00-ex01.html>
@@ -55,25 +55,25 @@ Lesson 0
 Lesson 1
 
 * Partner Exercise: Let's Recreate This Slide in HTML!
-  - Status: Submitted
+  - Status: Final
   - CodePed: <https://codepen.io/chindraba-ga/pen/RwawRxK>
   - Repo: l01-ex00
   - Live page: <https://www.chindraba.work/fewd/l01-ex00.html>
 
 * Guided Walk-Through: Press Release
-  - Status: Submitted
+  - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/PoNozVE>
   - Repo: l01-ex01
   - Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
   
 * Partner Exercise: Kässerole Example
-  - Status: Submitted
+  - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/yLOLayd>
   - Repo: l01-ex02
   - Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
 
 * Solo Exercise: Cookie Time
-  - Status: Submitted
+  - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/gOrOwWj>
   - Repo: l01-ex03
   - Live page: <https://www.chindraba.work/fewd/l01-ex03.html>
@@ -81,18 +81,18 @@ Lesson 1
 Lesson 2
 
 * Guided Walk-Through: HTML Review
-  - Status: Submitted
+  - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/gOrbmPX>
   - Repo: l02-ex01
   - Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
 
 * Computers Out: [CSS Exploration](../../../../../chindraba-ga/l02-ex02)
-  - Status: Submitted
+  - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/mdPymwo>
   - Live page: <https://www.chindraba.work/fewd/l02-ex02.html>
 
 * Solo Exercise: Build an HTML Table
-  - Status: Submitted
+  - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/NWNPpXe>
   - Repo: l02-ex03
   - Live page: <https://www.chindraba.work/fewd/l02-ex03.html>
@@ -106,16 +106,11 @@ Lesson 2
 Lesson 3
 
 * Exercise 1: Practicing the Box Model
-  - Status: Submitted
+  - Status: Final
   - Repo: l03-ex01
   - Live page: <https://www.chindraba.work/fewd/l03-ex01.html>
 
 Lesson 4
-
-* Exercise 1: Nav With Flexbox
-  - Status: In progress
-  - Repo: l04-ex01
-  - Live page: <https://www.chindraba.work/fewd/l04-ex01.html>
 
 * Homework 2: Assignment: Startup Matchmaker
   - Status: Final
@@ -126,7 +121,7 @@ Lesson 4
 Lesson 5
 
 * Solo Exercise: Make a Grid With Images
-  - Status: Submitted
+  - Status: Final
   - Repo: l05-ex01
   - CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
   - Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
@@ -134,13 +129,13 @@ Lesson 5
 Lesson 6
 
 * Solo Exercise: Build a Real Website
-  - Status: In Progress
+  - Status: Final
   - CodePed: <https://codepen.io/chindraba-ga/pen/jOqVMxW>
   - Repo: l06-ex01
   - Live page: <https://www.chindraba.work/fewd/l06-ex01.html>
 
 * Assignment: Rebuild a page from Trulia
-  - Status: Assigned
+  - Status: Final
   - CodePed: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
   - Repo: l06-hw03
   - Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
@@ -148,7 +143,7 @@ Lesson 6
 Lesson 8
 
 * Assignment: Add Modal to the page from Trulia
-  - Status: Assigned
+  - Status: Submitted
   - CodePed: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
   - Repo: l08-hw04
   - Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
