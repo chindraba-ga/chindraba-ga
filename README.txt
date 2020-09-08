@@ -143,7 +143,7 @@ Lesson 6
 Lesson 8
 
 * Assignment: Add Modal to the page from Trulia
-  - Status: Submitted
+  - Status: Final
   - CodePed: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
   - Repo: l08-hw04
   - Live page: <https://www.chindraba.work/fewd/l08-hw04.html>

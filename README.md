@@ -125,7 +125,7 @@ Most of the time, unless needed for some reason, the status will be one of:
 ### Lesson 8
 
 -  Assignment: [Add Modal to the page from Trulia](../../../../../chindraba-ga/l08-hw04)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
    -  Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
 
