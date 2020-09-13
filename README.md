@@ -141,6 +141,13 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
    -  Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
 
+### Final Project
+
+-  Project: [Design and build a website](../../../../../chindraba-ga/fewdr-final-project)
+   -  Status: Assigned
+   -  CodePen: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
+   -  Live page: <https://www.chindraba.work/fewd/final.html>
+
 [TOP](#contents)
 
 ---

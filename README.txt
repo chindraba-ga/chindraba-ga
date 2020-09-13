@@ -164,6 +164,14 @@ Lesson 12
   - Repo: l12-hw05
   - Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
 
+Final Project
+
+* Project: Design and build a website
+  - Status: Assigned
+  - CodePed: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
+  - Repo: fewdr-final-project
+  - Live page: <https://www.chindraba.work/fewd/final.html>
+
 Other Sites
 ================================================================================
 
