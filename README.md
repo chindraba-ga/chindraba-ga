@@ -130,14 +130,14 @@ Most of the time, unless needed for some reason, the status will be one of:
 ### Lesson 11
 
 -  Partner Exercise: [Rover](../../../../../chindraba-ga/l01-ex00)
-  -  Status: Submitted
-  -  CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
-  -  Live page: <https://www.chindraba.work/fewd/l11-ex01.html>
+   -  Status: Submitted
+   -  CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
+   -  Live page: <https://www.chindraba.work/fewd/l11-ex01.html>
 
 ### Lesson 12
 
 -  Assignment: [Rebuild a Navbar from Slack](../../../../../chindraba-ga/l12-hw05)
-   -  Status: Assigned
+   -  Status: In Progress
    -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
    -  Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
 
