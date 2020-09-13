@@ -120,8 +120,6 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  CodePen: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
    -  Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
 
-[TOP](#contents)
-
 ### Lesson 8
 
 -  Assignment: [Add Modal to the page from Trulia](../../../../../chindraba-ga/l08-hw04)
@@ -129,6 +127,21 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  CodePen: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
    -  Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
 
+### Lesson 11
+
+-  Partner Exercise: [Rover](../../../../../chindraba-ga/l01-ex00)
+  -  Status: Submitted
+  -  CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
+  -  Live page: <https://www.chindraba.work/fewd/l11-ex01.html>
+
+### Lesson 12
+
+-  Assignment: [Rebuild a Navbar from Slack](../../../../../chindraba-ga/l12-hw05)
+   -  Status: Assigned
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
+   -  Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
+
+[TOP](#contents)
 
 ---
 ## Other sites

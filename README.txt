@@ -148,6 +148,21 @@ Lesson 8
   - Repo: l08-hw04
   - Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
 
+Lesson 11
+
+* Partner Exercise: Rover
+  - Status: Submitted
+  - CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
+  - Repo: l11-ex01
+  - Live page: <https://www.chindraba.work/fewd/l11-ex01.html>
+
+Lesson 12
+
+* Assignment: Rebuild a Navbar from Slack
+  - Status: Assigned
+  - CodePed: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
+  - Repo: l12-hw05
+  - Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
 
 Other Sites
 ================================================================================
