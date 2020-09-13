@@ -143,10 +143,10 @@ Most of the time, unless needed for some reason, the status will be one of:
 
 ### Final Project
 
--  Project: [Design and build a website](../../../../../chindraba-ga/fewdr-final-project)
+-  Project: [Design and build a website](../../../../../chindraba-ga/fewd-final-project)
    -  Status: Assigned
    -  CodePen: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
-   -  Live page: <https://www.chindraba.work/fewd/final.html>
+   -  Live page: <https://www.chindraba.work/fewd/fewd-final.html>
 
 [TOP](#contents)
 

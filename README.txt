@@ -56,7 +56,7 @@ Lesson 1
 
 * Partner Exercise: Let's Recreate This Slide in HTML!
   - Status: Final
-  - CodePed: <https://codepen.io/chindraba-ga/pen/RwawRxK>
+  - CodePen: <https://codepen.io/chindraba-ga/pen/RwawRxK>
   - Repo: l01-ex00
   - Live page: <https://www.chindraba.work/fewd/l01-ex00.html>
 
@@ -130,13 +130,13 @@ Lesson 6
 
 * Solo Exercise: Build a Real Website
   - Status: Final
-  - CodePed: <https://codepen.io/chindraba-ga/pen/jOqVMxW>
+  - CodePen: <https://codepen.io/chindraba-ga/pen/jOqVMxW>
   - Repo: l06-ex01
   - Live page: <https://www.chindraba.work/fewd/l06-ex01.html>
 
 * Assignment: Rebuild a page from Trulia
   - Status: Final
-  - CodePed: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
+  - CodePen: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
   - Repo: l06-hw03
   - Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
 
@@ -144,7 +144,7 @@ Lesson 8
 
 * Assignment: Add Modal to the page from Trulia
   - Status: Final
-  - CodePed: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
+  - CodePen: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
   - Repo: l08-hw04
   - Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
 
@@ -160,7 +160,7 @@ Lesson 12
 
 * Assignment: Rebuild a Navbar from Slack
   - Status: In Progress
-  - CodePed: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
+  - CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
   - Repo: l12-hw05
   - Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
 
@@ -168,9 +168,9 @@ Final Project
 
 * Project: Design and build a website
   - Status: Assigned
-  - CodePed: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
+  - CodeSandbox: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
   - Repo: fewdr-final-project
-  - Live page: <https://www.chindraba.work/fewd/final.html>
+  - Live page: <https://www.chindraba.work/fewd/fewd-final.html>
 
 Other Sites
 ================================================================================
