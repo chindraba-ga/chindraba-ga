@@ -137,7 +137,7 @@ Most of the time, unless needed for some reason, the status will be one of:
 ### Lesson 12
 
 -  Assignment: [Rebuild a Navbar from Slack](../../../../../chindraba-ga/l12-hw05)
-   -  Status: In Progress
+   -  Status: Submitted
    -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
    -  Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
 

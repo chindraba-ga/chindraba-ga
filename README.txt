@@ -159,7 +159,7 @@ Lesson 11
 Lesson 12
 
 * Assignment: Rebuild a Navbar from Slack
-  - Status: In Progress
+  - Status: Submitted
   - CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
   - Repo: l12-hw05
   - Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
