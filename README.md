@@ -137,15 +137,15 @@ Most of the time, unless needed for some reason, the status will be one of:
 ### Lesson 12
 
 -  Assignment: [Rebuild a Navbar from Slack](../../../../../chindraba-ga/l12-hw05)
-   -  Status: Submitted
+   -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
    -  Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
 
 ### Final Project
 
 -  Project: [Design and build a website](../../../../../chindraba-ga/fewd-final-project)
-   -  Status: In Progress
-   -  CodePen: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
+   -  Status: In Progress (Milestone 2 Final)
+   -  CodeSandbox: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
    -  Live page: <https://www.chindraba.work/fewd/fewd-final.html>
 
 [TOP](#contents)

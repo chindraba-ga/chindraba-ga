@@ -159,7 +159,7 @@ Lesson 11
 Lesson 12
 
 * Assignment: Rebuild a Navbar from Slack
-  - Status: Submitted
+  - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
   - Repo: l12-hw05
   - Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
@@ -167,7 +167,7 @@ Lesson 12
 Final Project
 
 * Project: Design and build a website
-  - Status: In Progress
+  - Status: In Progress (Milestone 2 Final)
   - CodeSandbox: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
   - Repo: fewdr-final-project
   - Live page: <https://www.chindraba.work/fewd/fewd-final.html>
