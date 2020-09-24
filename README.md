@@ -146,7 +146,7 @@ Most of the time, unless needed for some reason, the status will be one of:
 -  Project: [Design and build a website](../../../../../chindraba-ga/fewd-final-project)
    -  Status: In Progress (Milestone 2 Final)
    -  CodeSandbox: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
-   -  Live page: <https://www.chindraba.work/fewd/fewd-final.html>
+   -  Live page: <https://www.chindraba.work/fewd/final/index.html>
 
 [TOP](#contents)
 

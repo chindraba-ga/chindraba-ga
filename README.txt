@@ -170,7 +170,7 @@ Final Project
   - Status: In Progress (Milestone 2 Final)
   - CodeSandbox: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
   - Repo: fewdr-final-project
-  - Live page: <https://www.chindraba.work/fewd/fewd-final.html>
+  - Live page: <https://www.chindraba.work/fewd/final/index.html>
 
 Other Sites
 ================================================================================
