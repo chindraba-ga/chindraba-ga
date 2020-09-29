@@ -87,7 +87,7 @@ export title
 export desc
 export starter_code
 export starter_css
-for target_file in README.md README.txt CONTRIBUTING.md CONTRIBUTING.txt project_page.html .git/config; do
+for target_file in README.md README.txt CONTRIBUTING.md CONTRIBUTING.txt index.html .git/config; do
     target="${repo_name}/${target_file}"
     perl -pi -e 's/<<PRJ>>/$ENV{"repo_name"}/g' "${target}"
     perl -pi -e 's/<<PEN>>/$ENV{"code_pen"}/g' "${target}"
