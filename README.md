@@ -42,111 +42,111 @@ Most of the time, unless needed for some reason, the status will be one of:
 -  Dash tutorial 1: [Build A Personal Website](../../../../../chindraba-ga/l00-ex01)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/BaKBoJx>
-   -  Live page: <https://www.chindraba.work/fewd/l00-ex01.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l00-ex01/index.html>
 
 ### Lesson 1
 
 -  Partner Excercise: [Let's Recreate This Slide in HTML!](../../../../../chindraba-ga/l01-ex00)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/RwawRxK>
-   -  Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l01-ex01/index.html>
    
 -  Guided Walk-Through: [Press Release](../../../../../chindraba-ga/l01-ex01)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/PoNozVE>
-   -  Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l01-ex01/index.html>
 
 -  Partner Exercise: [Kässerole Example](../../../../../chindraba-ga/l01-ex02)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/yLOLayd>
-   -  Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l01-ex02/index.html>
 
 -  Solo Exercise: [Cookie Time](../../../../../chindraba-ga/l01-ex03)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/gOrOwWj>
-   -  Live page: <https://www.chindraba.work/fewd/l01-ex03.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l01-ex03/index.html>
 
 ### Lesson 2
 
 -  Guided Walk-Through: [HTML Review](../../../../../chindraba-ga/l02-ex01)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/gOrbmPX>
-   -  Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l02-ex01/index.html>
 
 -  Computers Out: [CSS Exploration](../../../../../chindraba-ga/l02-ex02)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/mdPymwo>
-   -  Live page: <https://www.chindraba.work/fewd/l02-ex02.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l02-ex02/index.html>
 
 -  Solo Exercise: [Build an HTML Table](../../../../../chindraba-ga/l02-ex03)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/NWNPpXe>
-   - Live page: <https://www.chindraba.work/fewd/l02-ex03.html>
+   - Live page: <https://fewd.chindraba.work/lessons/l02-ex03/index.html>
 
 -  Assignment: [Make a GA Press Release](../../../../../chindraba-ga/l02-hw01)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/GRZgmYV>
-   -  Live page: <https://www.chindraba.work/fewd/l02-hw01.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l02-hw01/index.html>
 
 ### Lesson 3
 
 -  Exercise 1: [Practicing the Box Model](../../../../../chindraba-ga/l03-ex01)
    -  Status: Final
-   -  Live page: <https://www.chindraba.work/fewd/l03-ex01.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l03-ex01/index.html>
 
 ### Lesson 4
 
 -  Homework 2: Assignment: [Startup Matchmaker](../../../../../chindraba-ga/l04-hw02)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
-   -  Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l04-hw02/index.html>
 
 ### Lesson 5
 
 -  Solo Exercise: [Make a Grid With Images](../../../../../chindraba-ga/l05-ex01)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
-   -  Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l05-ex01/index.html>
 
 ### Lesson 6
 
 -  Solo Exercise: [Build a Real Website](../../../../../chindraba-ga/l06-ex01)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/jOqVMxW>
-   -  Live page: <https://www.chindraba.work/fewd/l06-ex01.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l06-ex01/index.html>
 
 -  Assignment: [Rebuild a page from Trulia](../../../../../chindraba-ga/l06-hw03)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
-   -  Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l06-hw03/index.html>
 
 ### Lesson 8
 
 -  Assignment: [Add Modal to the page from Trulia](../../../../../chindraba-ga/l08-hw04)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
-   -  Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l08-hw04/index.html>
 
 ### Lesson 11
 
 -  Partner Exercise: [Rover](../../../../../chindraba-ga/l01-ex00)
    -  Status: Submitted
    -  CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
-   -  Live page: <https://www.chindraba.work/fewd/l11-ex01.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l11-ex01/index.html>
 
 ### Lesson 12
 
 -  Assignment: [Rebuild a Navbar from Slack](../../../../../chindraba-ga/l12-hw05)
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
-   -  Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
+   -  Live page: <https://fewd.chindraba.work/lessons/l12-hw05/index.html>
 
 ### Final Project
 
 -  Project: [Design and build a website](../../../../../chindraba-ga/fewd-final-project)
    -  Status: In Progress (Milestone 2 Final)
    -  CodeSandbox: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
-   -  Live page: <https://www.chindraba.work/fewd/final/index.html>
+   -  Live page: <https://fewd.chindraba.work/index.html>
 
 [TOP](#contents)
 

@@ -1,7 +1,7 @@
 <<PRJ>>
 * Status: Assigned
 * CodePen: <https://codepen.io/chindraba-ga/pen/<<PEN>>>
-* Live page: <https://www.chindraba.work/fewd/<<PRJ>>.html>
+* Live page: <https://fewd.chindraba.work/lessons/<<PRJ>>/index.html>
 
 Contents
 ================================================================================

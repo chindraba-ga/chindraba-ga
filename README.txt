@@ -50,7 +50,7 @@ Lesson 0
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/BaKBoJx>
   - Repo: l00-ex01
-  - Live page: <https://www.chindraba.work/fewd/l00-ex01.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l00-ex01/index.html>
 
 Lesson 1
 
@@ -58,25 +58,25 @@ Lesson 1
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/RwawRxK>
   - Repo: l01-ex00
-  - Live page: <https://www.chindraba.work/fewd/l01-ex00.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l01-ex00/index.html>
 
 * Guided Walk-Through: Press Release
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/PoNozVE>
   - Repo: l01-ex01
-  - Live page: <https://www.chindraba.work/fewd/l01-ex01.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l01-ex01/index.html>
   
 * Partner Exercise: Kässerole Example
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/yLOLayd>
   - Repo: l01-ex02
-  - Live page: <https://www.chindraba.work/fewd/l01-ex02.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l01-ex02/index.html>
 
 * Solo Exercise: Cookie Time
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/gOrOwWj>
   - Repo: l01-ex03
-  - Live page: <https://www.chindraba.work/fewd/l01-ex03.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l01-ex03/index.html>
 
 Lesson 2
 
@@ -84,31 +84,31 @@ Lesson 2
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/gOrbmPX>
   - Repo: l02-ex01
-  - Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l02-ex01/index.html>
 
 * Computers Out: [CSS Exploration](../../../../../chindraba-ga/l02-ex02)
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/mdPymwo>
-  - Live page: <https://www.chindraba.work/fewd/l02-ex02.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l02-ex02/index.html>
 
 * Solo Exercise: Build an HTML Table
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/NWNPpXe>
   - Repo: l02-ex03
-  - Live page: <https://www.chindraba.work/fewd/l02-ex03.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l02-ex03/index.html>
 
 * Assignment: Make a GA Press Release
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/GRZgmYV>
   - Repo: l02-hw01
-  - Live page: <https://www.chindraba.work/fewd/l02-hw01.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l02-hw01/index.html>
   
 Lesson 3
 
 * Exercise 1: Practicing the Box Model
   - Status: Final
   - Repo: l03-ex01
-  - Live page: <https://www.chindraba.work/fewd/l03-ex01.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l03-ex01/index.html>
 
 Lesson 4
 
@@ -116,7 +116,7 @@ Lesson 4
   - Status: Final
   - Repo: l04-hw02
   - CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
-  - Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l04-hw02/index.html>
 
 Lesson 5
 
@@ -124,7 +124,7 @@ Lesson 5
   - Status: Final
   - Repo: l05-ex01
   - CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
-  - Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l05-ex01/index.html>
 
 Lesson 6
 
@@ -132,13 +132,13 @@ Lesson 6
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/jOqVMxW>
   - Repo: l06-ex01
-  - Live page: <https://www.chindraba.work/fewd/l06-ex01.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l06-ex01/index.html>
 
 * Assignment: Rebuild a page from Trulia
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
   - Repo: l06-hw03
-  - Live page: <https://www.chindraba.work/fewd/l06-hw03.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l06-hw03/index.html>
 
 Lesson 8
 
@@ -146,7 +146,7 @@ Lesson 8
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/NWNjOjZ>
   - Repo: l08-hw04
-  - Live page: <https://www.chindraba.work/fewd/l08-hw04.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l08-hw04/index.html>
 
 Lesson 11
 
@@ -154,7 +154,7 @@ Lesson 11
   - Status: Submitted
   - CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
   - Repo: l11-ex01
-  - Live page: <https://www.chindraba.work/fewd/l11-ex01.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l11-ex01/index.html>
 
 Lesson 12
 
@@ -162,7 +162,7 @@ Lesson 12
   - Status: Final
   - CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
   - Repo: l12-hw05
-  - Live page: <https://www.chindraba.work/fewd/l12-hw05.html>
+  - Live page: <https://fewd.chindraba.work/lessons/l12-hw05/index.html>
 
 Final Project
 
@@ -170,7 +170,7 @@ Final Project
   - Status: In Progress (Milestone 2 Final)
   - CodeSandbox: <https://codesandbox.io/s/final-project-fewdr-804-h8qde>
   - Repo: fewdr-final-project
-  - Live page: <https://www.chindraba.work/fewd/final/index.html>
+  - Live page: <https://fewd.chindraba.work/index.html>
 
 Other Sites
 ================================================================================
