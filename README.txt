@@ -151,7 +151,7 @@ Lesson 8
 Lesson 11
 
 * Partner Exercise: Rover
-  - Status: Submitted
+  - Status: Final
   - CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
   - Repo: l11-ex01
   - Live page: <https://fewd.chindraba.work/lessons/l11-ex01/index.html>
@@ -163,6 +163,14 @@ Lesson 12
   - CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
   - Repo: l12-hw05
   - Live page: <https://fewd.chindraba.work/lessons/l12-hw05/index.html>
+
+Lesson 13
+
+* Assignment: CitiPix
+  - Status: Final
+  - CodePed: <https://codepen.io/chindraba-ga/pen/>
+  - Repo: l13-hw06
+  - Live page: <https://fewd.chindraba.work/lessons/l13-hw06/index.html>
 
 Final Project
 

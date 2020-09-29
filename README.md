@@ -130,7 +130,7 @@ Most of the time, unless needed for some reason, the status will be one of:
 ### Lesson 11
 
 -  Partner Exercise: [Rover](../../../../../chindraba-ga/l01-ex00)
-   -  Status: Submitted
+   -  Status: Final
    -  CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
    -  Live page: <https://fewd.chindraba.work/lessons/l11-ex01/index.html>
 
@@ -140,6 +140,13 @@ Most of the time, unless needed for some reason, the status will be one of:
    -  Status: Final
    -  CodePen: <https://codepen.io/chindraba-ga/pen/eYZrOJv>
    -  Live page: <https://fewd.chindraba.work/lessons/l12-hw05/index.html>
+
+### Lesson 13
+
+-  Assignment: [CitiPix](../../../../../chindraba-ga/l13-hw06)
+   -  Status: Final
+   -  CodePen: <https://codepen.io/chindraba-ga/pen/>
+   -  Live page: <https://fewd.chindraba.work/lessons/l13-hw06/index.html>
 
 ### Final Project
 
